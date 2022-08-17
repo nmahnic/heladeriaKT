@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.34615384615384615" />
+        <entry key="app/src/main/res/drawable-v24/btn_green_top_rounded.xml" value="0.2595" />
+        <entry key="app/src/main/res/drawable-v24/btn_red_top_rounded.xml" value="0.2595" />
+        <entry key="app/src/main/res/drawable-v24/btn_redgradient_rounded_box.xml" value="0.3275" />
+        <entry key="app/src/main/res/drawable-v24/button_green_top_rounded.xml" value="0.3275" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1565" />
+        <entry key="app/src/main/res/drawable/border.xml" value="0.245" />
+        <entry key="app/src/main/res/drawable/ic_add_24dp.xml" value="0.1695" />
+        <entry key="app/src/main/res/drawable/ic_baseline_accessibility_new_24.xml" value="0.112" />
+        <entry key="app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.1565" />
+        <entry key="app/src/main/res/drawable/ic_baseline_delivery_dining_24.xml" value="0.112" />
+        <entry key="app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.3275" />
+        <entry key="app/src/main/res/drawable/ic_baseline_emoji_people_24.xml" value="0.112" />
+        <entry key="app/src/main/res/drawable/ic_baseline_exposure_neg_1_24.xml" value="0.1565" />
+        <entry key="app/src/main/res/drawable/ic_baseline_exposure_plus_1_24.xml" value="0.1565" />
+        <entry key="app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.112" />
+        <entry key="app/src/main/res/drawable/ic_baseline_icecream_24.xml" value="0.135" />
+        <entry key="app/src/main/res/drawable/ic_baseline_ios_share_24.xml" value="0.112" />
+        <entry key="app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.112" />
+        <entry key="app/src/main/res/drawable/ic_baseline_keyboard_arrow_up_24.xml" value="0.112" />
+        <entry key="app/src/main/res/drawable/ic_baseline_library_books_24.xml" value="0.112" />
+        <entry key="app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.112" />
+        <entry key="app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.112" />
+        <entry key="app/src/main/res/drawable/ic_baseline_save_24.xml" value="0.112" />
+        <entry key="app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.112" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1565" />
+        <entry key="app/src/main/res/drawable/ic_remove_24dp.xml" value="0.112" />
+        <entry key="app/src/main/res/layout/activity_initial.xml" value="0.325" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/add_delivery_dialog.xml" value="0.67" />
+        <entry key="app/src/main/res/layout/add_user_dialog.xml" value="0.22209116617838548" />
+        <entry key="app/src/main/res/layout/cat_bottomappbar_content.xml" value="0.325" />
+        <entry key="app/src/main/res/layout/delivery_dialog.xml" value="0.14114583333333333" />
+        <entry key="app/src/main/res/layout/empanada_dialog.xml" value="0.24427083333333333" />
+        <entry key="app/src/main/res/layout/fragment_delivery.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_initial.xml" value="0.1901840490797546" />
+        <entry key="app/src/main/res/layout/fragment_orders.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.14114583333333333" />
+        <entry key="app/src/main/res/layout/fragment_user.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/input_dialog.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/item_combos.xml" value="0.12447916666666667" />
+        <entry key="app/src/main/res/layout/item_deliveries.xml" value="0.9" />
+        <entry key="app/src/main/res/layout/item_empandas.xml" value="0.42084942084942084" />
+        <entry key="app/src/main/res/layout/item_helados.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/item_opciones.xml" value="0.2671875" />
+        <entry key="app/src/main/res/layout/item_orders.xml" value="0.75" />
+        <entry key="app/src/main/res/layout/item_subtastes.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_taste.xml" value="0.18802083333333333" />
+        <entry key="app/src/main/res/layout/item_tastes.xml" value="0.6203208556149733" />
+        <entry key="app/src/main/res/layout/item_users.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/save_empanada_dialog.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/sub_item_empandas.xml" value="0.325" />
+        <entry key="app/src/main/res/layout/user_dialog.xml" value="0.2390625" />
+        <entry key="app/src/main/res/menu/bottom_app_menu.xml" value="0.13953488372093023" />
+        <entry key="app/src/main/res/menu/demo_primary.xml" value="0.325" />
+        <entry key="app/src/main/res/menu/demo_primary_alternate.xml" value="0.325" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2335" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
