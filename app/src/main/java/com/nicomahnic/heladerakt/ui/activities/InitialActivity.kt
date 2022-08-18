@@ -25,43 +25,12 @@ class InitialActivity : AppCompatActivity() {
         val view = binding.root
         setContentView(view)
 
+        initialVM.getData()
+
         binding.btnBegin.setOnClickListener{
             startActivity(Intent(this, MainActivity::class.java))
             finish()
         }
-
-        initialVM.insertDeliveries(deliveryList)
-        initialVM.insertTasteOptions(tasteList)
-        initialVM.insertIceCreamOptions(iceCreamOptionList)
-
-    }
-
-    companion object {
-        val iceCreamOptionList = mutableListOf(
-            IceCreamOption("1 kg" ),
-            IceCreamOption("1/2 kg"),
-            IceCreamOption("1/4 kg"),
-            IceCreamOption("Cucurucho"),
-        )
-
-        val tasteList = mutableListOf(
-            TasteOption("Limon"),
-            TasteOption("Frutilla"),
-            TasteOption("Naranja"),
-            TasteOption("Frambuesa"),
-            TasteOption("Ananá"),
-            TasteOption("Durazno"),
-            TasteOption("Sandia"),
-            TasteOption("Pomelo"),
-            TasteOption("Crema del Cielo"),
-            TasteOption("Crema Americana"),
-            TasteOption("Tramontana"),
-            TasteOption("Vainilla"),
-        )
-
-        val deliveryList = mutableListOf(
-            Delivery("Boedo", "Boedo 123", "+34 610087495"),
-        )
 
     }
 

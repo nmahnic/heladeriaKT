@@ -55,7 +55,7 @@ class HomeFragment : Fragment(R.layout.fragment_home) {
         CoroutineScope(Dispatchers.Main).launch{
             homeVM.getAllIceCreamOptions().collect { iceCreamOption ->
                 iceCreamOption.forEach {
-                    Log.d("NM", "delivery => ${it} ")
+                    Log.d("NM", "iceCreamOption => ${it} ")
                     iceCreamOptionList.add(0, it)
                     adapterIceCreamOptions.notifyItemChanged(0)
                 }
